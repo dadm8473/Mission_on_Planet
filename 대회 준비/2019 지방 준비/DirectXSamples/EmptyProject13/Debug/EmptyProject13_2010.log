@@ -1,0 +1,4 @@
+﻿  AssetManager.cpp
+  LINK : C:\Users\JSB\Desktop\태수\DirectXSamples\EmptyProject13\Debug\EmptyProject13.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+CCamera.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject13_2010.vcxproj -> C:\Users\JSB\Desktop\태수\DirectXSamples\EmptyProject13\Debug\EmptyProject13.exe

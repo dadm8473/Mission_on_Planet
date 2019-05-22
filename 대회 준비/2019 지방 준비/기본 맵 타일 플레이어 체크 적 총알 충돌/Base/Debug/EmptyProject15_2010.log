@@ -1,0 +1,10 @@
+﻿  CBullet.cpp
+  CGameScene.cpp
+c:\users\jsb\desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\cgamescene.cpp(88): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\cgamescene.cpp(130): warning C4389: '==': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\cgamescene.cpp(162): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\cgamescene.cpp(175): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\cgamescene.cpp(177): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\cgamescene.cpp(227): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  EmptyProject15_2010.vcxproj -> C:\Users\JSB\Desktop\재모\기본 맵 타일 플레이어 체크 적 총알\3 25 2\Debug\EmptyProject15.exe

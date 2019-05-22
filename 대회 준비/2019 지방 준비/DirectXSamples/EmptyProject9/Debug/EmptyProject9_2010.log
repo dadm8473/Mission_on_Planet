@@ -1,0 +1,4 @@
+﻿  DXUTenum.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject9\dxut\core\dxutenum.cpp(3975): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+DXUT.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject9_2010.vcxproj -> C:\Users\JSB\Desktop\태수\DirectXSamples\EmptyProject9\Debug\EmptyProject9.exe

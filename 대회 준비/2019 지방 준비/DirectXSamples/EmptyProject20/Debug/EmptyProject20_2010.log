@@ -1,0 +1,4 @@
+﻿  CMap.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject20\cmap.cpp(10): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject20\cmap.cpp(13): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EmptyProject20_2010.vcxproj -> C:\Users\JSB\Desktop\재모\DirectXSamples\EmptyProject20\Debug\EmptyProject20.exe

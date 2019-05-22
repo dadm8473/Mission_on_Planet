@@ -1,0 +1,5 @@
+﻿  Player.cpp
+c:\users\jsb\desktop\지능 뚝딲\2019.03.10_기능경기대회(지방)_플레이어 중력 + 적 생성 방식 + 방해물 생성방식\player.cpp(41): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\지능 뚝딲\2019.03.10_기능경기대회(지방)_플레이어 중력 + 적 생성 방식 + 방해물 생성방식\player.cpp(46): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\지능 뚝딲\2019.03.10_기능경기대회(지방)_플레이어 중력 + 적 생성 방식 + 방해물 생성방식\player.cpp(83): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PT_2008.vcxproj -> C:\Users\JSB\Desktop\지능 뚝딲\2019.03.10_기능경기대회(지방)_플레이어 중력 + 적 생성 방식 + 방해물 생성방식\Debug\PT.exe

@@ -1,0 +1,16 @@
+﻿  AssetManager.cpp
+  CEndingScene.cpp
+  CGameScene.cpp
+  CMatrix.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject15 - 복사본\cmatrix.cpp(43): warning C4458: 'maxScene' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\재모\directxsamples\emptyproject15 - 복사본\cmatrix.h(16): note: 'CMatrix::maxScene' 선언을 참조하십시오.
+  CScene.cpp
+  CTexture.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject15 - 복사본\ctexture.cpp(41): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject15 - 복사본\ctexture.cpp(42): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CTitleScene.cpp
+  Game.cpp
+  EmptyProject15.cpp
+  코드를 생성하고 있습니다...
+AssetManager.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject15_2010.vcxproj -> C:\Users\JSB\Desktop\재모\DirectXSamples\EmptyProject15 - 복사본\Debug\EmptyProject15.exe

@@ -1,0 +1,70 @@
+#include "DXUT.h"
+#include "Header.h"
+
+AssetManager* AssetManager::instance;
+AssetManager* gAssetManager;
+
+void AssetManager::LoadAssets_Sound(string key, LPWSTR filename, float maxBuffer)
+{
+	soundManager->Create(&sounds[key], filename, 0, GUID_NULL, maxBuffer);
+}
+
+void AssetManager::LoadAssets()
+{
+	// LoadTexture("key", L"filename", L"png", maxScene);
+
+	LoadTexture("Player", L"images/Player/Player", L"png", 1);
+
+	LoadTexture("Object", L"images/Object/object", L"png", 1);
+
+	LoadTexture("Effect", L"images/Effect/effect", L"png", 3);
+
+	LoadTexture("Num", L"images/Num/Num", L"png", 10);
+
+	LoadTexture("Tile", L"images/Tile/tile00", L"png", 3);
+
+	LoadTexture("Mid", L"images/Map/Mid", L"png", 1);
+	LoadTexture("Sky", L"images/Map/Sky", L"png", 1);
+
+	LoadTexture("Title", L"images/Main/Title/title", L"png", 4);
+	LoadTexture("HowTo", L"images/Main/Title/HowTo", L"png", 1);
+	LoadTexture("Rank", L"images/Main/Title/Rank", L"png", 1);
+
+	LoadTexture("Win", L"images/Main/Ending/Win", L"png", 1);
+	LoadTexture("Lose", L"images/Main/Ending/Lose", L"png", 1);
+
+	soundManager = new CSoundManager;
+	soundManager->Initialize(DXUTGetHWND(), DSSCL_PRIORITY);
+	soundManager->SetPrimaryBufferFormat(2, 22050, 16);
+
+	LoadAssets_Sound("Main", L"Sound/Main.wav", 1);
+}
+
+void AssetManager::ReleaseAssets()
+{
+	for (map<string, CTexture*>::iterator it = textures.begin(); it != textures.end(); ++it)
+		if (it->second)
+			delete it->second;
+	textures.clear();
+
+	for (auto it = sounds.begin(); it != sounds.end(); ++it)
+		if (it->second)
+			delete it->second;
+	delete soundManager;
+}
+
+void AssetManager::LoadTexture(string key, LPCWSTR filename, LPCWSTR extname, int maxScene)
+{
+	if (textures.find(key) != textures.end())
+		return;
+
+	textures[key] = new CTexture(filename, extname, maxScene);
+}
+
+CTexture * AssetManager::GetTexture(string key)
+{
+	if (textures.find(key) == textures.end())
+		return NULL;
+
+	return textures[key];
+}

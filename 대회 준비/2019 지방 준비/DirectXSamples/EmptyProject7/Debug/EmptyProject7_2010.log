@@ -1,0 +1,2 @@
+﻿DXUT.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject7_2010.vcxproj -> C:\Users\JSB\Desktop\태수\DirectXSamples\EmptyProject7\Debug\EmptyProject7.exe

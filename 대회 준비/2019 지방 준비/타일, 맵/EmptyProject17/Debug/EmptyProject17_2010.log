@@ -1,0 +1,12 @@
+﻿  CGameScene.cpp
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cgamescene.cpp(21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cgamescene.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cgamescene.cpp(97): warning C4389: '==': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cgamescene.cpp(129): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CPlayer.cpp
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cplayer.cpp(20): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cplayer.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\타일, 맵\emptyproject17\cplayer.cpp(39): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CTile.cpp
+  코드를 생성하고 있습니다...
+  EmptyProject17_2010.vcxproj -> C:\Users\JSB\Desktop\재모\타일, 맵\EmptyProject17\Debug\EmptyProject17.exe

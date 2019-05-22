@@ -1,0 +1,23 @@
+﻿  CEndingScene.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(30): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(5): note: 'CMatrix::camera' 선언을 참조하십시오.
+  CGameScene.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(30): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(5): note: 'CMatrix::camera' 선언을 참조하십시오.
+  CMatrix.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(30): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(5): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.cpp(46): warning C4458: 'maxScene' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(19): note: 'CMatrix::maxScene' 선언을 참조하십시오.
+  CScene.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(30): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(5): note: 'CMatrix::camera' 선언을 참조하십시오.
+  CTitleScene.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(30): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(5): note: 'CMatrix::camera' 선언을 참조하십시오.
+  EmptyProject4.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(30): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject4\cmatrix.h(5): note: 'CMatrix::camera' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+AssetManager.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject4_2010.vcxproj -> C:\Users\JSB\Desktop\태수\DirectXSamples\EmptyProject4\Debug\EmptyProject4.exe

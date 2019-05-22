@@ -1,0 +1,5 @@
+﻿  CMatrix.cpp
+c:\users\jsb\desktop\태수\directxsamples\emptyproject11\cmatrix.cpp(43): warning C4458: 'maxScene' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\태수\directxsamples\emptyproject11\cmatrix.h(16): note: 'CMatrix::maxScene' 선언을 참조하십시오.
+AssetManager.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject11_2010.vcxproj -> C:\Users\JSB\Desktop\태수\DirectXSamples\EmptyProject11\Debug\EmptyProject11.exe

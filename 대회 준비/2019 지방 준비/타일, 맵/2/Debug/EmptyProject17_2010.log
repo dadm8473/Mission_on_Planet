@@ -1,0 +1,7 @@
+﻿  CGameScene.cpp
+c:\users\jsb\desktop\태수\타일, 맵\2\cgamescene.cpp(29): warning C4244: '=': 'unsigned int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\태수\타일, 맵\2\cgamescene.cpp(72): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\태수\타일, 맵\2\cgamescene.cpp(82): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\태수\타일, 맵\2\cgamescene.cpp(86): warning C4389: '==': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\태수\타일, 맵\2\cgamescene.cpp(118): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EmptyProject17_2010.vcxproj -> C:\Users\JSB\Desktop\태수\타일, 맵\2\Debug\EmptyProject17.exe

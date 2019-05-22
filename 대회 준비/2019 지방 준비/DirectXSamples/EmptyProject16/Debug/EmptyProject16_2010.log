@@ -1,0 +1,31 @@
+﻿  AssetManager.cpp
+  CCamera.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\ccamera.cpp(17): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+  CEndingScene.cpp
+  CGameScene.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cgamescene.cpp(23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cgamescene.cpp(24): warning C4244: '=': 'unsigned int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cgamescene.cpp(73): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cgamescene.cpp(98): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cgamescene.cpp(102): warning C4389: '==': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cgamescene.cpp(133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CMap.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cmap.cpp(10): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cmap.cpp(13): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMatrix.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cmatrix.cpp(43): warning C4458: 'maxScene' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cmatrix.h(16): note: 'CMatrix::maxScene' 선언을 참조하십시오.
+  CPlayer.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cplayer.cpp(19): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cplayer.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\cplayer.cpp(37): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CScene.cpp
+  CTexture.cpp
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\ctexture.cpp(41): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\재모\directxsamples\emptyproject16\ctexture.cpp(42): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CTile.cpp
+  CTitleScene.cpp
+  Game.cpp
+  EmptyProject16.cpp
+  코드를 생성하고 있습니다...
+  EmptyProject16_2010.vcxproj -> C:\Users\JSB\Desktop\재모\DirectXSamples\EmptyProject16\Debug\EmptyProject16.exe
