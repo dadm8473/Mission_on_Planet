@@ -56,5 +56,5 @@ void CCamera::ShakeCamera(float timer, int strong)
 	this->time = timer;
 	this->strong = strong;
 
-	isCameraShake = true;0
+	isCameraShake = true;
 }
